@@ -26,10 +26,15 @@
    Blank
 
 # Technology 
-	- Express.js
+	- Node
+    - Express
 	- Mongoose 
 	- Nodemon
 	- JavaScript
+    - MVC Paradigm
+    - NoSQL
+    - MongoDB
+    - Google / Stack Overflow
 
 # Usage
   Install and use at leisure
